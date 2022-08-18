@@ -20,3 +20,7 @@ Jeśli ktoś z was ma ochotę zmienić lokalizację interakcji za pomocą target
 Dołączam jeszcze skrypt dopeNotify ponieważ pod niego robiłem eksporty odpowiadające za powiadomienie w skrypcie. Można je zamienić jednak też samemu.
 
 W razie błędów proszę o informacje postaram się je naprawić.
+
+https://streamable.com/7y1oww
+
+^^Preview
